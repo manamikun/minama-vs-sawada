@@ -59,6 +59,9 @@ class ViewController: UIViewController {
             self.minamaHp = 20
             self.sawadaPoint.text = "HP:\(self.sawadaHp)"
             self.minamaPoint.text = "HP:\(self.minamaHp)"
+                
+            // ここでUserDefoで保存してくだい
+                
             }
 
         }
@@ -84,6 +87,9 @@ class ViewController: UIViewController {
                     self.minamaHp = 20
                     self.sawadaPoint.text = "HP:\(self.sawadaHp)"
                     self.minamaPoint.text = "HP:\(self.minamaHp)"
+                    
+                    
+                    // ここでUserDefoで保存してくだい
                 }
         }
     
